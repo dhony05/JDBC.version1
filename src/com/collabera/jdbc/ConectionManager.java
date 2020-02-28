@@ -57,7 +57,11 @@ public class ConectionManager {
 			e.printStackTrace();
 		}
 			
-
+		
+		
+		
+		
+		
 		
 		
 //		try {
